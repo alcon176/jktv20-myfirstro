@@ -18,6 +18,7 @@ public class MyFirstRo {
         // TODO code application logic here
         System.out.println("Hello JKTV20!");
         System.out.println("Мой программ из чейндж");
+        System.out.println("Мое второе измение в комите");
     }
     
 }
